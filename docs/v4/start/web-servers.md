@@ -14,7 +14,7 @@ assuming `./public/` is public-accessible directory with `index.php` file:
 
 ```bash
 cd public/
-php -S localhost:8888
+php -S localhost:8888 index.php
 ```
 
 If you are not using `index.php` as your entry point then change appropriately.
